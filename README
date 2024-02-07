@@ -1,0 +1,14 @@
+# cefr-categorizer
+
+Simple script that categorizes a list of sentences exported from tatoeba into CEFR levels.
+
+Still a heavy work in progress.
+
+## Usage
+
+- `input.txt`: Input file containing sentences to categorize.
+- `generated/[A1-C2]`: Output files containing sentences categorized by CEFR level.
+
+```bash
+python3 cefr-categorizer.py
+```
